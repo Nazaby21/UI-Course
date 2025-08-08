@@ -93,3 +93,8 @@
 .enrol:hover{
   color: #754ffe;
 }
+
+.avatar{
+  width: 40px;
+  height: 40px;
+}
