@@ -72,7 +72,7 @@
   color: #4d4e50a4;
 }
 
-.nav-link:hover {
+.nav-item .nav-link:hover {
   color: #754ffe;
   text-decoration: underline;
   text-underline-offset: 18px;
